@@ -1,0 +1,25 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="197" height="197" viewBox="0 0 197 197" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 22" filter="url(#filter0_d_0_14)">
+<circle id="Ellipse 10" cx="98.5" cy="83.5" r="68.5" fill="url(#paint0_linear_0_14)"/>
+<g id="Union">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96.8419 45C104.878 45 111.473 51.2339 112.163 59.1817C119.918 60.709 126.068 67.0732 127.182 75.2509L127.864 80.2606L122.22 81.0473L121.538 76.0376C120.818 70.7502 117.077 66.5518 112.224 65.1222V70.9322C112.224 72.5235 110.949 73.8136 109.375 73.8136C107.802 73.8133 106.527 72.5234 106.527 70.9322V64.5932H87.1569V70.9322C87.1569 72.5235 85.8816 73.8136 84.3084 73.8136C82.7354 73.8133 81.4599 72.5234 81.4599 70.9322V65.0491C76.4463 66.4136 72.5675 70.7181 71.8728 76.1457L69.8076 92.2812C68.7931 100.21 74.8987 107.237 82.8029 107.237H106.461V113H82.8029C71.462 113 62.7028 102.919 64.1585 91.5418L66.2225 75.4062C67.2895 67.0684 73.5928 60.5747 81.5255 59.131C82.2385 51.2075 88.8229 45.0002 96.8419 45ZM96.8419 50.7627C92.0766 50.7629 88.1179 54.2449 87.3105 58.8305H106.374C105.567 54.2447 101.607 50.7627 96.8419 50.7627Z" fill="white"/>
+<path d="M126.467 87.0678C126.467 87.0678 127.548 93.3091 130.19 95.9809C132.818 98.639 138.939 99.7348 139 99.7458C138.939 99.7567 132.818 100.852 130.19 103.511C127.548 106.182 126.467 112.424 126.467 112.424C126.462 112.398 125.38 106.177 122.745 103.511C120.103 100.839 113.933 99.7458 113.933 99.7458C113.933 99.7458 120.103 98.6525 122.745 95.9809C125.38 93.3147 126.462 87.0939 126.467 87.0678Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_14" x="0" y="0" width="197" height="197" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="15"/>
+<feGaussianBlur stdDeviation="15"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.376471 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_14"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_14" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_14" x1="98.5" y1="15" x2="98.5" y2="152" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF6100"/>
+<stop offset="1" stop-color="#FE5100"/>
+</linearGradient>
+</defs>
+</svg>
